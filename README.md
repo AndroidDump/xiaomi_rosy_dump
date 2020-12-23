@@ -1,0 +1,13 @@
+# rosy-user 8.1.0 OPM1.171019.026 V11.0.2.0.ODAMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: rosy
+- flavor: rosy-user
+- release: 8.1.0
+- id: OPM1.171019.026
+- incremental: V11.0.2.0.ODAMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/rosy/rosy:8.1.0/OPM1.171019.026/V11.0.2.0.ODAMIXM:user/release-keys
+- brand: Xiaomi
+- branch: rosy-user-8.1.0-OPM1.171019.026-V11.0.2.0.ODAMIXM-release-keys
+- repo: xiaomi_rosy_dump
