@@ -1,0 +1,43 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.miui.has_cust_partition=true
+ro.secureboot.devicelock=1
+ro.sys.sdcardfs=1
+ro.factory_mode=0
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.wt_final_release=1
+ro.allow.mock.location=0
+ro.debuggable=0
+ro.oem_unlock_supported=true
+ro.zygote=zygote64_32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+dalvik.vm.usejit=true
+dalvik.vm.usejitprofiles=true
+dalvik.vm.dexopt.secondary=true
+dalvik.vm.appimageformat=lz4
+pm.dexopt.first-boot=quicken
+pm.dexopt.boot=verify
+pm.dexopt.install=quicken
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.ab-ota=speed-profile
+pm.dexopt.inactive=verify
+pm.dexopt.shared=speed
+debug.atrace.tags.enableflags=0
+ro.logdumpd.enabled=0
+persist.sys.timezone=Asia/Shanghai
+debug.sf.disable_backpressure=1
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Dec 23 15:49:41 CST 2019
+ro.bootimage.build.date.utc=1577087381
+ro.bootimage.build.fingerprint=Xiaomi/rosy/rosy:8.1.0/OPM1.171019.026/V11.0.4.0.ODACNXM:user/release-keys
+persist.sys.usb.config=none
+
