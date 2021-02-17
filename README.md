@@ -1,0 +1,17 @@
+## lineage_rosy-userdebug 11 RQ1A.210205.004 245 release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: rosy
+- Brand: Xiaomi
+- Flavor: lineage_rosy-userdebug
+- Release Version: 11
+- Id: RQ1A.210205.004
+- Incremental: 245
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/lineage_rosy/rosy:11/RQ1A.210205.004/245:userdebug/release-keys
+- Branch: lineage_rosy-userdebug-11-RQ1A.210205.004-245-release-keys
+- Repo: xiaomi_rosy_dump
